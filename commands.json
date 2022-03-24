@@ -40,6 +40,9 @@
     "Clear F1",
     "Flag F2",
     "Clear E2",
-    "Clear D1"
+    "Clear D1",
+    "Flag B1",
+    "Flag B2",
+    "Clear A2"
   ]
 }
